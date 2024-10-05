@@ -1,0 +1,14 @@
+C:\Users\Alejandro\Documents\Projetos\DesafioEstacionamentoCSharp\DesafioEstacionamentoCSharp\bin\Debug\net8.0\DesafioEstacionamentoCSharp.exe
+C:\Users\Alejandro\Documents\Projetos\DesafioEstacionamentoCSharp\DesafioEstacionamentoCSharp\bin\Debug\net8.0\DesafioEstacionamentoCSharp.deps.json
+C:\Users\Alejandro\Documents\Projetos\DesafioEstacionamentoCSharp\DesafioEstacionamentoCSharp\bin\Debug\net8.0\DesafioEstacionamentoCSharp.runtimeconfig.json
+C:\Users\Alejandro\Documents\Projetos\DesafioEstacionamentoCSharp\DesafioEstacionamentoCSharp\bin\Debug\net8.0\DesafioEstacionamentoCSharp.dll
+C:\Users\Alejandro\Documents\Projetos\DesafioEstacionamentoCSharp\DesafioEstacionamentoCSharp\bin\Debug\net8.0\DesafioEstacionamentoCSharp.pdb
+C:\Users\Alejandro\Documents\Projetos\DesafioEstacionamentoCSharp\DesafioEstacionamentoCSharp\obj\Debug\net8.0\DesafioEstacionamentoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alejandro\Documents\Projetos\DesafioEstacionamentoCSharp\DesafioEstacionamentoCSharp\obj\Debug\net8.0\DesafioEstacionamentoCSharp.AssemblyInfoInputs.cache
+C:\Users\Alejandro\Documents\Projetos\DesafioEstacionamentoCSharp\DesafioEstacionamentoCSharp\obj\Debug\net8.0\DesafioEstacionamentoCSharp.AssemblyInfo.cs
+C:\Users\Alejandro\Documents\Projetos\DesafioEstacionamentoCSharp\DesafioEstacionamentoCSharp\obj\Debug\net8.0\DesafioEstacionamentoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Documents\Projetos\DesafioEstacionamentoCSharp\DesafioEstacionamentoCSharp\obj\Debug\net8.0\DesafioEstacionamentoCSharp.dll
+C:\Users\Alejandro\Documents\Projetos\DesafioEstacionamentoCSharp\DesafioEstacionamentoCSharp\obj\Debug\net8.0\refint\DesafioEstacionamentoCSharp.dll
+C:\Users\Alejandro\Documents\Projetos\DesafioEstacionamentoCSharp\DesafioEstacionamentoCSharp\obj\Debug\net8.0\DesafioEstacionamentoCSharp.pdb
+C:\Users\Alejandro\Documents\Projetos\DesafioEstacionamentoCSharp\DesafioEstacionamentoCSharp\obj\Debug\net8.0\DesafioEstacionamentoCSharp.genruntimeconfig.cache
+C:\Users\Alejandro\Documents\Projetos\DesafioEstacionamentoCSharp\DesafioEstacionamentoCSharp\obj\Debug\net8.0\ref\DesafioEstacionamentoCSharp.dll
